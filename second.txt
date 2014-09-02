@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-masterbranch
-=======
-hello
-devbranch
->>>>>>> dev
